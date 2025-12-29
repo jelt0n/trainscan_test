@@ -1,0 +1,9 @@
+path: TrainScan/data
+train: train/images
+val: val/images
+nc: 3
+# Классы
+names:
+  0: brake_cylinder
+  1: emergency_reservoir
+  2: brake_valve
